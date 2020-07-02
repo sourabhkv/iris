@@ -1,4 +1,4 @@
-# iris
+# iris V2
 voice assistant 
 works with windows 10
 older versions might work
