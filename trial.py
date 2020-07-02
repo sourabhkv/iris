@@ -74,7 +74,7 @@ def assist(cmd):
                 url2="https://www.google.com/search?q=minesweeper"
                 url3="https://www.google.com/search?q=play%20snake"
                 url4="https://doodlecricket.github.io"
-                url5="https://www.bing.com/fun/sudoku"
+                url5='https://quickdraw.withgoogle.com/'
                 url6="https://www.bing.com/fun/chess"
                 r5=random.randint(0,5)
                 url=[url1,url2,url3,url4,url5,url6]
